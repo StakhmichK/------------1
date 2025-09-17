@@ -2,4 +2,5 @@
 #Reading a number from the keyboard
 n = int(input("Впишіть число: "))
 
-print(n % 10)
+p = n % 10
+print("Остання цифра числа: ",p )
