@@ -4,4 +4,4 @@ integer_part = int(a)
 fractional_part = a - integer_part
 result = integer_part + int(fractional_part + 0.5)
 
-print(result)
+print("Округлене число: ", result)
